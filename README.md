@@ -20,7 +20,7 @@ pip install pygame
 ```
 
 ## Running the Games
-To start playing, first navigate into the folder of the game that you want to play. Then run the following command, replacing the "game" with the name of the game you want to play:
+To start playing, first navigate into the folder of the game that you want to play. Then run the following command:
 
 ```bash
 python main.py
