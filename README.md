@@ -1,4 +1,4 @@
-# Board Game Against AI
+# Board Game Against Minimax
 ## Description
 This is my Introduction to Artifical Intelligence term project. It is a simple board game against an AI player.
 For creating AI, I used minimax algorithm with alpha - beta pruning and for GUI used pygame.
